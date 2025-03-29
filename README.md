@@ -6,6 +6,7 @@ This project is a web application that recommends suitable drugs based on a user
 
 
 How to use:
+- Login(Use forget password if you can't remember or signup if you don't have an account)
 - Open the website and enter symptoms faced by patient via the dropbox.
 - Click "Predict" to get the recommended drug.
 - Review the suggested drugs and read additional information.
