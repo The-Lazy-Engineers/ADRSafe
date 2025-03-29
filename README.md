@@ -35,9 +35,9 @@ Dataset Source:
 Tools Used:
 - Frontend: HTML, React.js, Tailwind CSS
 - Backend: Node.js
-- Model: Scikit-learn/TensorFlow/PyTorch
-- Database: MongoDB/MySQL/PostgreSQL
-- Deployment: AWS/Heroku/Render
+- Model: Scikit-learn, Pandas, Numpy
+- Database: MongoDB
+- Deployment: TBD
 - AI Chatbots: ChatGPT, Perplexity, Copilot
 
 
