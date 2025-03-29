@@ -1,6 +1,5 @@
 💊 ADRSafe | Adverse Drug Reactions Safe
 
-
 Summary: 
 This project is a web application that recommends suitable drugs based on a user's symptoms. The system leverages a machine learning model trained on medical data to provide accurate and reliable suggestions.
 
