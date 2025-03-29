@@ -4,7 +4,7 @@ Summary:
 This project is a web application that recommends suitable drugs based on a user's symptoms. The system leverages a machine learning model trained on medical data to provide accurate and reliable suggestions.
 
 How to use:
-- Open the website and enter via the dropbox.
+- Open the website and enter symptoms faced by patient via the dropbox.
 - Click "Predict" to get the recommended drug.
 - Review the suggested drugs and read additional information.
 
