@@ -45,7 +45,7 @@ Contributors:
 - Harshvardhan Gaggar  | its-harsh-here
 - Avigyan Ray          | Krekensis
 - Mayank Kumar         | CODINGKATT
-- Aaron Fernande       | iamaaron07
+- Aaron Fernandes       | iamaaron07
 
 
 Issues: If you encounter any bugs or have feature requests, please create an issue here.
