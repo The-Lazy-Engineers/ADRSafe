@@ -41,12 +41,6 @@ Tools Used:
 - AI Chatbots: ChatGPT, Perplexity, Copilot
 
 
-Code was written and tested on: 
-- Operating System: Ubuntu 24.04.1 LTS                              
-- Kernel: Linux 6.8.0-49-generic
-- Architecture: x86-64
-
-
 Contributors: 
 - Harshvardhan Gaggar  | its-harsh-here
 - Avigyan Ray          | Krekensis
