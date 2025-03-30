@@ -37,8 +37,8 @@ Tools Used:
 - Backend: Node.js
 - Model: Scikit-learn, Pandas, Numpy
 - Database: MongoDB
-- Deployment: TBD
-- AI Chatbots: ChatGPT, Perplexity, Copilot
+- Deployment: Postman, Local Machine
+
 
 
 Contributors: 
