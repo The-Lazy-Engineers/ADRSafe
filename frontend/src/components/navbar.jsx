@@ -20,7 +20,7 @@ const Navbar = ({ showLoginForm, setShowLoginForm }) => {
           <div className="container mx-auto flex justify-between items-center">
             <img src={logo} alt="ADR Logo" className="w-15 h-15 contain-content" />
             <div className="flex-1">
-              <h1 className="text-4xl font-bold text-blue-600 ml-4">ADRSafe</h1>
+              <h1 className="text-4xl font-bold from-blue-600 via-indigo-700 to-indigo-700 bg-gradient-to-r bg-clip-text text-transparent  ml-4">ADRSafe</h1>
             </div>
 
             {/* Mobile Menu Button */}
